@@ -6,7 +6,7 @@ Grab icons from iconfinder.com.
 ## Usage:
 - Install
 
-Enter the folder
+Enter the folder:
 ```python
 > pip install .
 ```
