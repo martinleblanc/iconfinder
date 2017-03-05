@@ -1,4 +1,4 @@
 iconfinder
 ==========
-grab icons from iconfinder.com
+Grab icons from iconfinder.com
 -------------------------------
