@@ -1,5 +1,5 @@
-iconfinder
-==========
+# iconfinder
+
 Grab icons from iconfinder.com
 
 ## Usage:
