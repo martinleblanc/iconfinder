@@ -5,6 +5,7 @@ Grab icons from iconfinder.com.
 
 ## Usage:
 1. Install
+
 Enter the folder
 ```python
 > pip install -e .
@@ -17,4 +18,4 @@ Enter the folder
 
 ```
 
-**The slash watermark in images will be removed automatically and saved as new file to replace the original**
+**The slash watermark in images will be removed automatically and saved as new file to replace the original.**
