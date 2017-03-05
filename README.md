@@ -18,4 +18,4 @@ Enter the folder
 
 ```
 
-**The slash watermark in images will be removed automatically and saved as new file to replace the original.**
+**The slash watermark in images will be removed automatically and new file is created to replace the original.**
