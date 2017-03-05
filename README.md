@@ -17,5 +17,6 @@ Enter the folder
 > iconfinder smile --save-dir="G:/smile"
 
 ```
+Check `iconfinder --help` to see more
 
 **The slash watermark in images will be removed automatically and new file is created to replace the original.**
