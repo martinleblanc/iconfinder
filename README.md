@@ -8,7 +8,7 @@ Grab icons from iconfinder.com.
 
 Enter the folder
 ```python
-> pip install -e .
+> pip install .
 ```
 
 2. Command line
