@@ -1,1 +1,4 @@
-# iconfinder: grab icons from iconfinder.com
+iconfinder
+==========
+grab icons from iconfinder.com
+-------------------------------
