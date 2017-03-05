@@ -1,4 +1,4 @@
 requests
 click
-BeautifulSoup
+bs4
 pillow

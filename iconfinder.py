@@ -48,7 +48,7 @@ def save(src, filename):
 
 @click.command()
 @click.argument('keyword')
-@click.option('--save-dir', type=click.Path(), default='.')
+@click.option('-s', '--save-dir', type=click.Path(), default='.')
 def cli(keyword, save_dir):
     if not os.path.exists(save_dir): 
        os.mkdir(save_dir)
